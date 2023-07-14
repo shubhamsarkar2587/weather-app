@@ -1,7 +1,5 @@
 # 🌤️ Weather React App with Tailwind CSS
 
-## Description
-
 The Weather React App is a web application that allows users to check the weather forecast for a specific location. It is built using React and styled with Tailwind CSS.
 
 ## ✨ Features
